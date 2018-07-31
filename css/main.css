@@ -30,11 +30,12 @@ div {
 
 .logo {
 	margin-top: 0px;
-	float: ;
-	padding: 20px 0px 0px 140px;
-	height: 40px;
-	margin: 0px 0px 0px 0px;
-	border:none;
+    float: ;
+    padding: 0px 0px 0px 10px;
+    height: 30px;
+    width: 100px;
+    margin: 20px 0px 0px 75px;
+    border: none;
 }
 
 nav {
@@ -45,13 +46,13 @@ margin-right: 90px;
 .adres {
 	color: #f8f32b;
 	text-decoration: none;
-	margin-left: 400px;
+	margin-left: 500px;
 	display: block;
 	border: 2px;
 	border-style: solid;
 	width: 155px;
 position: relative;
-margin-top: 14px;
+margin-top: 20px;
 }
 
 
