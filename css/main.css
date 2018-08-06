@@ -29,9 +29,7 @@ div {
 }
 
 .logo {
-	margin-top: 0px; 
-    padding: 0px -60px 0px 440px;
-    margin: 20px 500px -30px 75px;
+	    margin: 20px 400px -30px 130px
 
 }
 
@@ -43,8 +41,8 @@ div {
 	border-style: solid;
 	width: 160px;
 	position: relative;
-	margin-top: 30px;
-  	margin: -20px 180px 20px 700px;
+
+  	margin: -20px 0px 30px 730px;
 }
 
 nav {
@@ -68,6 +66,7 @@ color: #fff;
 	margin-left: 50px;
 }
 
+
 #nav3, #nav3 li {
   margin: 0;
   padding: 0;
@@ -87,6 +86,8 @@ color: #fff;
 #nav3 a:hover {
   background: #f8f32b;
 }
+
+
 
 
 .button {
@@ -298,16 +299,12 @@ font-family: 'Lato', sans-serif;
 }
 
 #about {
-	 background: #FDE640;
+
 }
 
 .about{
-    text-align: right;
-    line-height: 1.55em;
-    width: 285px;
-    float: left;
-    margin-left: 58px;
-    margin-bottom: 100px;
+
+ 
 }
 
 .title hr {
@@ -316,65 +313,7 @@ font-family: 'Lato', sans-serif;
 
 
 
-.about_2 {
-    text-align: left;
-    line-height: 1.55em;
-    width: 285px;
-    float: right;
-    margin-right: 58px;
-    margin-bottom: 100px;
-}
-.about_2 h3{
-    color: #222222;
-    font-size: 14px;
-    line-height: 1.55em;
-    margin-top: 20px;
-}
 
-.about_2 p{
-    color: #777777;
-    font-size: 11px;
-    line-height: 1.55em
-}
-.about h3{
-    color: #222222;
-    font-size: 16px;
-    line-height: 1.55em;
-    margin-top: 50px;
-}
-
-.about_3 h3{
-    color: #222222;
-    font-size: 14px;
-    line-height: 1.55em;
-    margin-top: 50px;
-}
-
-.about_3 p{
-    color: #777777;
-    font-size: 11px;
-    line-height: 1.55em
-}
-
-.about_3 {
-    text-align: left;
-    line-height: 1.55em;
-    width: 285px;
-    float: right;
-    margin-right: 58px;
-    margin-bottom: 100px;
-}
-.about p{
-    color: #777777;
-    font-size: 11px;
-    line-height: 1.55em;
-    padding-top: 3px;
-}
-.about_img img{
-    margin-left: 32px;
-    margin-bottom: 100px;
-    padding-top: 50px;
-}
 
 
 .study h1{
@@ -415,14 +354,8 @@ font-family: 'Lato', sans-serif;
 
 
 
-
-.about_img2 img{
-    margin-left: 386px;
-    margin-bottom: 100px;
-}
-
-#about{
-	background: #fff;
+#about p {
+font-size: 14px;
 }
 
 .title h2 {
@@ -433,7 +366,6 @@ font-family: 'Lato', sans-serif;
 	margin: 0;
 	margin-top: 120px;
 }
-
 
 
 footer{
