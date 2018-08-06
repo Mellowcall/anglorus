@@ -4,7 +4,7 @@ $(document).ready(function() {
 		items: 1,
 		margin:130,
 		autoplay:true,
-	    autoplayTimeout:1500,
+	    autoplayTimeout:6000,
 	    autoplayHoverPause:true,
 		stagePadding: 130,
 		dots: false,
@@ -22,7 +22,7 @@ $(document).ready(function() {
 	    768 : {
 	    	margin:130,
 	    	stagePadding: 130,
-        dots: true,
+        dots: false,
 	    }
 		}
 	});
